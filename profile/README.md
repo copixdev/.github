@@ -9,8 +9,6 @@
 </p>
 <p align="center"><strong>Write, edit, delete, read files and create projects just with a sentence.</strong></p>
 
-> Official Copix agent
-
 <p align="center">
 <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
 <img src="https://img.shields.io/badge/Price-Free-brightgreen.svg" alt="Free">
