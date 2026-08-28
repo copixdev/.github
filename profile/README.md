@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/Price-Free-brightgreen.svg" alt="Free">
 <img src="https://img.shields.io/badge/Version-4.3.0-blue.svg" alt="v4.3.0">
 <img src="https://img.shields.io/badge/macOS-supported-blue.svg" alt="macOS">
-<img src="https://img.shields.io/badge/Windows-supported-blue.svg" alt="Windows">
 </p>
 
 ---
