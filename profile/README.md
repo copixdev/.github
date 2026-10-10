@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" />
-  <img src="https://img.shields.io/badge/Version-4.3.0-blue.svg" alt="v4.3.0" />
+  <img src="https://img.shields.io/badge/License-MIT-1c1612.svg" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/Version-4.3.0-c4654a.svg" alt="v4.3.0" />
 </p>
 
 <p align="center">
@@ -32,11 +32,11 @@
 macOS and Linux
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/copixdev/copix/main/cli/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/copixdev/copix/refs/heads/main/cli/install.sh | bash
 ```
 
 Windows
 
 ```powershell
-irm https://raw.githubusercontent.com/copixdev/copix/main/cli/install.ps1 | iex
+irm https://raw.githubusercontent.com/copixdev/copix/refs/heads/main/cli/install.ps1 | iex
 ```
