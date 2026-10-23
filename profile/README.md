@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/477b3b09-d5a5-4812-8f18-bdc795a25ff6" width="1469" alt="Copix Desktop" />
+  <img src="https://raw.githubusercontent.com/copixdev/copix-desktop/refs/heads/main/assets/desktop.png" width="1469" alt="Copix Desktop" />
 </p>
 
 <p align="center">
