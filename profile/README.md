@@ -11,11 +11,9 @@
   &nbsp;·&nbsp;
   <a href="https://copixdev.github.io/"><strong>Website</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/copixdev/copix-desktop"><strong>copix-desktop</strong></a>
+  <a href="https://github.com/copixdev/copix-desktop"><strong>Desktop App</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/copixdev/copix-cli"><strong>copix-cli</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/copixdev/copixdev.github.io"><strong>copixdev.github.io</strong></a>
+  <a href="https://github.com/copixdev/copix-cli"><strong>CLI</strong></a>
 </p>
 
 <p align="center">
